@@ -4,7 +4,7 @@
 
 # Parte 1
 
-<li>DIA 01 - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.✔️</li>
+[]**-DIA 01 - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.**
 <li>DIA 02 - Fazer um Hello World customizado com fontes, cores e imagens.</li>
 <li>DIA 03 - Criar um botão annimado.</li>
 <li>DIA 04 - Criar uma calculadora.</li>
