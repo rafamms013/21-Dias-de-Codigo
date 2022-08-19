@@ -7,3 +7,6 @@ Como fiz de forma simples, não mechi muito na parte da responsividade, mas é u
 # Tecnologias usadas:
 <li>HTML</li>
 <li>CSS</li>
+
+# IDE usada:
+<li>Visual Studio Code</li>
