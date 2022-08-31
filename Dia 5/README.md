@@ -1,5 +1,5 @@
 ## Sobre:
-<p>Essa página foi desenvolvida para aprimorar meus conhecimentos em HTML, CSS e principalmente o JavaScript, onde tenho focado para fixar bem e ter um bom entendimento para conseguir usar. Fiz essa página acompanhando um tutorial no youtube, porém fui fazendo do meu jeito mudando algumas coisas para deixar como queria, é uma página simples, onde quando o usuário passa o mouse sobre ela a imagem de background se movimenta, isso graças ao JavaScript. Irei fazendo algumas melhorias, como na responsividade e ir implementando algumas outras funções legais nela mais a frente, para assim aprender mais e ter uma página bem intuitiva.</p><br>
+<p>Desafio do dia 5, cujo o objetivo era desenvolver uma página que exiba o erro 404, aproveitei que já havia desenvolvido essa, ai aproveitei o código para fazer o desafio, ela está interativa ou seja quando o usuário movimenta o mouse a imagem de fundo do Dino Chrome também se movimenta.</p> 
 
 <img src="./src/img/image-previa-pagina.png" >
 
